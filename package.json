@@ -1,0 +1,26 @@
+{
+  "name": "Ohh1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "script": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maugares/Oohl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maugares/Oohl/issues"
+  },
+  "homepage": "https://github.com/maugares/Oohl#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pg": "^7.9.0",
+    "sequelize": "^5.6.0"
+  }
+}
